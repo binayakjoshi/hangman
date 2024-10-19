@@ -1,4 +1,4 @@
-#hangman
+# hangman
 A simple command-line based hangman game I built using python back in 2019.
 ## Installation
 
